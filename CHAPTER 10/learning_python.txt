@@ -1,0 +1,8 @@
+make a list
+receive information from an user
+use conditional statements
+use for loop to do an action in every item from a list
+use while loop to do sometim until the while loop become false
+using function
+using classes
+storing classes and methods in a module
